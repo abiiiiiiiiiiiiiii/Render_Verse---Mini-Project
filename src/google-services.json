@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "797751080616",
+    "project_id": "renderverse-37b27",
+    "storage_bucket": "renderverse-37b27.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:797751080616:android:dc69248fc6a1486b00749d",
+        "android_client_info": {
+          "package_name": "com.RenderVerse.name"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCt04i-h2gx_Hcn9e2z7dUkcuWTKuhfYK0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

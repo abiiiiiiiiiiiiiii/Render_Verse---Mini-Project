@@ -1,7 +1,70 @@
-# Render_Verse---Mini-Project
-This animation teaching application guides users from basic sketching to advanced techniques with step-by-step tutorials, transcripts, and assignments. Features include gamification, progress tracking, and a community space to enhance learning, promote collaboration, and make mastering animation fun and accessible for all.
+# Getting Started with Create React App
 
-This app outlines the development of an innovative animation teaching application designed to guide users through the entire learning process, from basic sketching to advanced animation techniques. The app employs a modular approach that integrates step-by-step tutorials, simple language transcripts, and engaging assignments to enhance user interaction and understanding. By incorporating interactive elements, progress tracking, and community features, the application aims to create a comprehensive and accessible learning experience for aspiring animators, catering to learners at all levels of expertise. The app's design emphasizes accessibility, engagement, and continuous improvement, with features such as gamification, regular updates, and support for users with disabilities. The educational approach is informed by studies demonstrating the effectiveness of interactive, modular learning and the motivational impact of gamification on learner retention. Through project-based learning and community interaction, the app fosters both individual growth and collaborative learning, ultimately aiming to streamline the process of mastering animation techniques while making it enjoyable and approachable for all users.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-The animation industry is rapidly evolving, with an increasing demand for skilled animators across various sectors such as film, television, gaming, and digital media. However, learning animation can often be overwhelming due to its technical complexity and the steep learning curve involved. The availability of digital tools and online learning platforms has made it easier for aspiring animators to access educational resources, but many still struggle with fragmented and overwhelming content. The primary aim of this project was to develop a comprehensive and user-friendly animation teaching application that simplifies the learning process and makes animation accessible to a wider audience. By adopting a modular, user-centered design approach, this project sought to address key challenges such as engaging content, user interaction, accessibility, and motivation.
-The design process began with extensive user research, including surveys, interviews, and feedback from aspiring animators, to understand their pain points and learning preferences. Insights from this research were then used to guide the creation of an intuitive, interactive platform. The app was designed to cater to learners at various skill levels, from beginners to advanced users, incorporating step-by-step tutorials, quizzes, progress tracking, and community-driven features. This paper outlines the development process of the animation teaching app, focusing on the methodologies employed for user research, content development, and the iterative design process. The ultimate goal was to create an engaging, accessible, and effective learn0ing experience for all users.
+## Available Scripts
+
+In the project directory, you can run:
+
+### `npm start`
+
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
+
+### `npm test`
+
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+
+### `npm run build`
+
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
+
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
+
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+### `npm run eject`
+
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
